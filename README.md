@@ -1,5 +1,5 @@
 D<h1 align="center">Hi 👋, I'm Esraa Elgebaly</h1>
-<h3 align="center">AI Engineer | Bridging Neural Computation & Large Language Models</h3>
+<h3 align="center">AI Engineer</h3>
 
 <table>
 <tr>
